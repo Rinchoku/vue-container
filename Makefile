@@ -14,3 +14,6 @@ bash:
 
 npm:
 	docker exec -it node npm $(CMD)
+
+eslint:
+	docker exec -it node npx eslint ./
