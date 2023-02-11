@@ -17,3 +17,6 @@ npm:
 
 eslint:
 	docker exec -it node npx eslint ./
+
+eslint-fix:
+	docker exec -it node npx eslint --fix ./
