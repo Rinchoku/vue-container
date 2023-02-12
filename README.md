@@ -1,2 +1,2 @@
-# node
-nodeを立ち上げるためのベースレポジトリ
+# vue-container
+vue.jsを立ち上げるためのベースレポジトリ
