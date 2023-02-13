@@ -6,5 +6,5 @@ services:
     volumes:
       - ./src:/var/www
     ports:
-      - "8080:80"
+      - "8080:8080"
     tty: true
